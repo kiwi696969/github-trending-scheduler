@@ -1,0 +1,398 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "BuilderIO",
+    "name": "agent-native",
+    "fullName": "BuilderIO/agent-native",
+    "projectLink": "https://github.com/BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "stars": 6134,
+    "forks": 558,
+    "deltaStars": 607,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "steve8708",
+        "profile": "https://github.com/steve8708"
+      },
+      {
+        "login": "builderio-bot",
+        "profile": "https://github.com/builderio-bot"
+      },
+      {
+        "login": "3mdistal",
+        "profile": "https://github.com/3mdistal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n BuilderIO /\n\n agent-native\n\n A framework for building agentic apps\n\n TypeScript\n\n 6,134\n\n 558\n\n Built by\n\n 607 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "trycua",
+    "name": "cua",
+    "fullName": "trycua/cua",
+    "projectLink": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars": 25831,
+    "forks": 1777,
+    "deltaStars": 609,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "f-trycua",
+        "profile": "https://github.com/f-trycua"
+      },
+      {
+        "login": "ddupont808",
+        "profile": "https://github.com/ddupont808"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "r33drichards",
+        "profile": "https://github.com/r33drichards"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n trycua /\n\n cua\n\n Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\n\n HTML\n\n 25,831\n\n 1,777\n\n Built by\n\n 609 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "Open-Dev-Society",
+    "name": "OpenStock",
+    "fullName": "Open-Dev-Society/OpenStock",
+    "projectLink": "https://github.com/Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "stars": 18052,
+    "forks": 2223,
+    "deltaStars": 844,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ravixalgorithm",
+        "profile": "https://github.com/ravixalgorithm"
+      },
+      {
+        "login": "keshav-005",
+        "profile": "https://github.com/keshav-005"
+      },
+      {
+        "login": "nb-src",
+        "profile": "https://github.com/nb-src"
+      },
+      {
+        "login": "chinnsenn",
+        "profile": "https://github.com/chinnsenn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Open-Dev-Society /\n\n OpenStock\n\n OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\n\n TypeScript\n\n 18,052\n\n 2,223\n\n Built by\n\n 844 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "akitaonrails",
+    "name": "ai-memory",
+    "fullName": "akitaonrails/ai-memory",
+    "projectLink": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars": 7865,
+    "forks": 528,
+    "deltaStars": 167,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "akitaonrails",
+        "profile": "https://github.com/akitaonrails"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "djalmajr",
+        "profile": "https://github.com/djalmajr"
+      },
+      {
+        "login": "samirhvbr",
+        "profile": "https://github.com/samirhvbr"
+      },
+      {
+        "login": "wblech",
+        "profile": "https://github.com/wblech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n akitaonrails /\n\n ai-memory\n\n Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n Rust\n\n 7,865\n\n 528\n\n Built by\n\n 167 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "coder",
+    "name": "coder",
+    "fullName": "coder/coder",
+    "projectLink": "https://github.com/coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars": 16522,
+    "forks": 1570,
+    "deltaStars": 460,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "kylecarbs",
+        "profile": "https://github.com/kylecarbs"
+      },
+      {
+        "login": "mafredri",
+        "profile": "https://github.com/mafredri"
+      },
+      {
+        "login": "johnstcn",
+        "profile": "https://github.com/johnstcn"
+      },
+      {
+        "login": "Emyrk",
+        "profile": "https://github.com/Emyrk"
+      }
+    ],
+    "trendingSnippet": "Star\n\n coder /\n\n coder\n\n Secure environments for developers and their agents\n\n Go\n\n 16,522\n\n 1,570\n\n Built by\n\n 460 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "anthropics",
+    "name": "financial-services",
+    "fullName": "anthropics/financial-services",
+    "projectLink": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": 35947,
+    "forks": 5275,
+    "deltaStars": 424,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mihilmy",
+        "profile": "https://github.com/mihilmy"
+      },
+      {
+        "login": "cxyback",
+        "profile": "https://github.com/cxyback"
+      },
+      {
+        "login": "manar-ant",
+        "profile": "https://github.com/manar-ant"
+      },
+      {
+        "login": "tobinsouth",
+        "profile": "https://github.com/tobinsouth"
+      },
+      {
+        "login": "viveknair",
+        "profile": "https://github.com/viveknair"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n financial-services\n\n Python\n\n 35,947\n\n 5,275\n\n Built by\n\n 424 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "cloudflare",
+    "name": "quiche",
+    "fullName": "cloudflare/quiche",
+    "projectLink": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars": 12431,
+    "forks": 1137,
+    "deltaStars": 32,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ghedo",
+        "profile": "https://github.com/ghedo"
+      },
+      {
+        "login": "traviscibot",
+        "profile": "https://github.com/traviscibot"
+      },
+      {
+        "login": "LPardue",
+        "profile": "https://github.com/LPardue"
+      },
+      {
+        "login": "antoniovicente",
+        "profile": "https://github.com/antoniovicente"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n quiche\n\n 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\n\n Rust\n\n 12,431\n\n 1,137\n\n Built by\n\n 32 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "mvt-project",
+    "name": "mvt",
+    "fullName": "mvt-project/mvt",
+    "projectLink": "https://github.com/mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "stars": 13714,
+    "forks": 1334,
+    "deltaStars": 169,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "botherder",
+        "profile": "https://github.com/botherder"
+      },
+      {
+        "login": "DonnchaC",
+        "profile": "https://github.com/DonnchaC"
+      },
+      {
+        "login": "Te-k",
+        "profile": "https://github.com/Te-k"
+      },
+      {
+        "login": "besendorf",
+        "profile": "https://github.com/besendorf"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvt-project /\n\n mvt\n\n MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.\n\n Python\n\n 13,714\n\n 1,334\n\n Built by\n\n 169 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "zhouxiaoka",
+    "name": "autoclip",
+    "fullName": "zhouxiaoka/autoclip",
+    "projectLink": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "language": "Python",
+    "stars": 8488,
+    "forks": 1585,
+    "deltaStars": 250,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "zhouxiaoka",
+        "profile": "https://github.com/zhouxiaoka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "mitsa-ng",
+        "profile": "https://github.com/mitsa-ng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n zhouxiaoka /\n\n autoclip\n\n AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具\n\n Python\n\n 8,488\n\n 1,585\n\n Built by\n\n 250 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "ruanyf",
+    "name": "weekly",
+    "fullName": "ruanyf/weekly",
+    "projectLink": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "",
+    "stars": 104247,
+    "forks": 4458,
+    "deltaStars": 182,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ruanyf",
+        "profile": "https://github.com/ruanyf"
+      },
+      {
+        "login": "fanofxiaofeng",
+        "profile": "https://github.com/fanofxiaofeng"
+      },
+      {
+        "login": "luhuadong",
+        "profile": "https://github.com/luhuadong"
+      },
+      {
+        "login": "eltsai",
+        "profile": "https://github.com/eltsai"
+      },
+      {
+        "login": "keepwow",
+        "profile": "https://github.com/keepwow"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruanyf /\n\n weekly\n\n 科技爱好者周刊，每周五发布\n\n 104,247\n\n 4,458\n\n Built by\n\n 182 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "Crosstalk-Solutions",
+    "name": "project-nomad",
+    "fullName": "Crosstalk-Solutions/project-nomad",
+    "projectLink": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "language": "TypeScript",
+    "stars": 38003,
+    "forks": 3775,
+    "deltaStars": 394,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jakeaturner",
+        "profile": "https://github.com/jakeaturner"
+      },
+      {
+        "login": "chriscrosstalk",
+        "profile": "https://github.com/chriscrosstalk"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cosmistack-bot",
+        "profile": "https://github.com/cosmistack-bot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Crosstalk-Solutions /\n\n project-nomad\n\n Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.\n\n TypeScript\n\n 38,003\n\n 3,775\n\n Built by\n\n 394 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "yynxxxxx",
+    "name": "Codex-X",
+    "fullName": "yynxxxxx/Codex-X",
+    "projectLink": "https://github.com/yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "language": "Rust",
+    "stars": 3787,
+    "forks": 468,
+    "deltaStars": 50,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yynxxxxx",
+        "profile": "https://github.com/yynxxxxx"
+      },
+      {
+        "login": "muzimu",
+        "profile": "https://github.com/muzimu"
+      }
+    ],
+    "trendingSnippet": "Star\n\n yynxxxxx /\n\n Codex-X\n\n OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。\n\n Rust\n\n 3,787\n\n 468\n\n Built by\n\n 50 stars today"
+  }
+]
