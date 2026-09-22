@@ -1,0 +1,1 @@
+{"name":"github-trending-scheduler","private":true,"type":"module","dependencies":{"node-cron":"^3.0.2"}}
